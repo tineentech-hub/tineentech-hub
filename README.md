@@ -12,11 +12,9 @@ Founder of [Tineen Tech](https://tineentech.com), a web studio in Cape Town, Sou
 
 ## Live work
 
-| | |
-|---|---|
-| [tineentech.com](https://tineentech.com) | Studio site |
-| [showcase.tineentech.com](https://showcase.tineentech.com) | Interactive demos: stores, scroll-driven heroes, catalogues |
-| [cycling.tineentech.com](https://cycling.tineentech.com) | 3D interactive product site (concept brand) |
+- [tineentech.com](https://tineentech.com): studio site
+- [showcase.tineentech.com](https://showcase.tineentech.com): interactive demos (stores, scroll-driven heroes, catalogues)
+- [cycling.tineentech.com](https://cycling.tineentech.com): 3D interactive product site (concept brand)
 
 ## Stack
 
